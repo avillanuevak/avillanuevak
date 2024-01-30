@@ -1,11 +1,3 @@
-<br clear="both">
-
-<div align="center">
-  <img height="" src="https://www.pcb.ub.edu/wp-content/uploads/2016/04/16057086695fb52b7dd099f.jpeg"  />
-</div>
-
-###
-
 <h1 align="center">Hey there 👋</h1>
 
 ###
