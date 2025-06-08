@@ -18,7 +18,7 @@ I'm Albert from Spain, I am studying computer science at the University of Barce
   
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=avillanuevak&theme=dark&show_icons=true&count_private=true"><br>
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=avillanuevak&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=avillanuevak&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8"></td></tr></tbody></table>
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=avillanuevak&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"></td></tr></tbody></table>
 
 ## Connect with me
 
